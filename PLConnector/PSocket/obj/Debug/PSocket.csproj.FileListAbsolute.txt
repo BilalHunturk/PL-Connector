@@ -1,0 +1,73 @@
+C:\Users\Bilal\source\repos\SocketProgramming\PSocket\obj\Debug\PSocket.csprojAssemblyReference.cache
+C:\Users\Bilal\source\repos\SocketProgramming\PSocket\obj\Debug\PSocket.Form1.resources
+C:\Users\Bilal\source\repos\SocketProgramming\PSocket\obj\Debug\PSocket.Properties.Resources.resources
+C:\Users\Bilal\source\repos\SocketProgramming\PSocket\obj\Debug\PSocket.csproj.GenerateResource.cache
+C:\Users\Bilal\source\repos\SocketProgramming\PSocket\obj\Debug\PSocket.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\source\repos\SocketProgramming\PSocket\bin\Debug\PSocket.exe.config
+C:\Users\Bilal\source\repos\SocketProgramming\PSocket\bin\Debug\PSocket.exe
+C:\Users\Bilal\source\repos\SocketProgramming\PSocket\bin\Debug\PSocket.pdb
+C:\Users\Bilal\source\repos\SocketProgramming\PSocket\obj\Debug\PSocket.exe
+C:\Users\Bilal\source\repos\SocketProgramming\PSocket\obj\Debug\PSocket.pdb
+C:\Users\Hamdi\Desktop\SocketProgramming\PSocket\bin\Debug\PSocket.exe.config
+C:\Users\Hamdi\Desktop\SocketProgramming\PSocket\bin\Debug\PSocket.exe
+C:\Users\Hamdi\Desktop\SocketProgramming\PSocket\bin\Debug\PSocket.pdb
+C:\Users\Hamdi\Desktop\SocketProgramming\PSocket\obj\Debug\PSocket.csprojAssemblyReference.cache
+C:\Users\Hamdi\Desktop\SocketProgramming\PSocket\obj\Debug\PSocket.Form1.resources
+C:\Users\Hamdi\Desktop\SocketProgramming\PSocket\obj\Debug\PSocket.Properties.Resources.resources
+C:\Users\Hamdi\Desktop\SocketProgramming\PSocket\obj\Debug\PSocket.csproj.GenerateResource.cache
+C:\Users\Hamdi\Desktop\SocketProgramming\PSocket\obj\Debug\PSocket.csproj.CoreCompileInputs.cache
+C:\Users\Hamdi\Desktop\SocketProgramming\PSocket\obj\Debug\PSocket.exe
+C:\Users\Hamdi\Desktop\SocketProgramming\PSocket\obj\Debug\PSocket.pdb
+C:\Users\Hamdi\Desktop\adsdd\PSocket\bin\Debug\PSocket.exe.config
+C:\Users\Hamdi\Desktop\adsdd\PSocket\bin\Debug\PSocket.exe
+C:\Users\Hamdi\Desktop\adsdd\PSocket\bin\Debug\PSocket.pdb
+C:\Users\Hamdi\Desktop\adsdd\PSocket\obj\Debug\PSocket.csprojAssemblyReference.cache
+C:\Users\Hamdi\Desktop\adsdd\PSocket\obj\Debug\PSocket.Form1.resources
+C:\Users\Hamdi\Desktop\adsdd\PSocket\obj\Debug\PSocket.Properties.Resources.resources
+C:\Users\Hamdi\Desktop\adsdd\PSocket\obj\Debug\PSocket.csproj.GenerateResource.cache
+C:\Users\Hamdi\Desktop\adsdd\PSocket\obj\Debug\PSocket.csproj.CoreCompileInputs.cache
+C:\Users\Hamdi\Desktop\adsdd\PSocket\obj\Debug\PSocket.exe
+C:\Users\Hamdi\Desktop\adsdd\PSocket\obj\Debug\PSocket.pdb
+C:\Users\Hamdi\Desktop\soket tasarim program\adsdd\PSocket\bin\Debug\PSocket.exe.config
+C:\Users\Hamdi\Desktop\soket tasarim program\adsdd\PSocket\bin\Debug\PSocket.exe
+C:\Users\Hamdi\Desktop\soket tasarim program\adsdd\PSocket\bin\Debug\PSocket.pdb
+C:\Users\Hamdi\Desktop\soket tasarim program\adsdd\PSocket\obj\Debug\PSocket.csprojAssemblyReference.cache
+C:\Users\Hamdi\Desktop\soket tasarim program\adsdd\PSocket\obj\Debug\PSocket.Form1.resources
+C:\Users\Hamdi\Desktop\soket tasarim program\adsdd\PSocket\obj\Debug\PSocket.Properties.Resources.resources
+C:\Users\Hamdi\Desktop\soket tasarim program\adsdd\PSocket\obj\Debug\PSocket.csproj.GenerateResource.cache
+C:\Users\Hamdi\Desktop\soket tasarim program\adsdd\PSocket\obj\Debug\PSocket.csproj.CoreCompileInputs.cache
+C:\Users\Hamdi\Desktop\soket tasarim program\adsdd\PSocket\obj\Debug\PSocket.exe
+C:\Users\Hamdi\Desktop\soket tasarim program\adsdd\PSocket\obj\Debug\PSocket.pdb
+C:\Users\Bilal\Desktop\Kc-Sara\Yeni\adsdd\PSocket\bin\Debug\PSocket.exe.config
+C:\Users\Bilal\Desktop\Kc-Sara\Yeni\adsdd\PSocket\bin\Debug\PSocket.exe
+C:\Users\Bilal\Desktop\Kc-Sara\Yeni\adsdd\PSocket\bin\Debug\PSocket.pdb
+C:\Users\Bilal\Desktop\Kc-Sara\Yeni\adsdd\PSocket\obj\Debug\PSocket.csprojAssemblyReference.cache
+C:\Users\Bilal\Desktop\Kc-Sara\Yeni\adsdd\PSocket\obj\Debug\PSocket.Form1.resources
+C:\Users\Bilal\Desktop\Kc-Sara\Yeni\adsdd\PSocket\obj\Debug\PSocket.Properties.Resources.resources
+C:\Users\Bilal\Desktop\Kc-Sara\Yeni\adsdd\PSocket\obj\Debug\PSocket.csproj.GenerateResource.cache
+C:\Users\Bilal\Desktop\Kc-Sara\Yeni\adsdd\PSocket\obj\Debug\PSocket.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\Desktop\Kc-Sara\Yeni\adsdd\PSocket\obj\Debug\PSocket.exe
+C:\Users\Bilal\Desktop\Kc-Sara\Yeni\adsdd\PSocket\obj\Debug\PSocket.pdb
+C:\Users\Hamdi\Desktop\soket tasarim program\adammadamm\PSocket\obj\Debug\PSocket.csprojAssemblyReference.cache
+C:\Users\Hamdi\Desktop\soket tasarim program\adammadamm\PSocket\obj\Debug\PSocket.Form1.resources
+C:\Users\Hamdi\Desktop\soket tasarim program\adammadamm\PSocket\obj\Debug\PSocket.Properties.Resources.resources
+C:\Users\Hamdi\Desktop\soket tasarim program\adammadamm\PSocket\obj\Debug\PSocket.csproj.GenerateResource.cache
+C:\Users\Hamdi\Desktop\soket tasarim program\adammadamm\PSocket\obj\Debug\PSocket.csproj.CoreCompileInputs.cache
+C:\Users\Hamdi\Desktop\soket tasarim program\adammadamm\PSocket\obj\Debug\PSocket.exe
+C:\Users\Hamdi\Desktop\soket tasarim program\adammadamm\PSocket\obj\Debug\PSocket.pdb
+C:\Users\Hamdi\Desktop\soket tasarim program\adammadamm\PSocket\bin\Debug\PSocket.exe.config
+C:\Users\Hamdi\Desktop\soket tasarim program\adammadamm\PSocket\bin\Debug\PSocket.exe
+C:\Users\Hamdi\Desktop\soket tasarim program\adammadamm\PSocket\bin\Debug\PSocket.pdb
+C:\Users\Bilal\Desktop\Works\Projects\PlConnector\PSocket\obj\Debug\PSocket.csproj.AssemblyReference.cache
+C:\Users\Bilal\Desktop\Works\Projects\PlConnector\PSocket\obj\Debug\PSocket.Form1.resources
+C:\Users\Bilal\Desktop\Works\Projects\PlConnector\PSocket\obj\Debug\PSocket.Properties.Resources.resources
+C:\Users\Bilal\Desktop\Works\Projects\PlConnector\PSocket\obj\Debug\PSocket.csproj.GenerateResource.cache
+C:\Users\Bilal\Desktop\Works\Projects\PlConnector\PSocket\obj\Debug\PSocket.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\Desktop\Works\Projects\PlConnector\PSocket\obj\Debug\PSocket.exe
+C:\Users\Bilal\Desktop\Works\Projects\PlConnector\PSocket\obj\Debug\PSocket.pdb
+C:\Users\Bilal\Desktop\Works\Projects\PlConnector\PSocket\bin\Debug\PSocket.exe.config
+C:\Users\Bilal\Desktop\Works\Projects\PlConnector\PSocket\bin\Debug\PSocket.exe
+C:\Users\Bilal\Desktop\Works\Projects\PlConnector\PSocket\bin\Debug\PSocket.pdb
+C:\Users\Bilal\Desktop\Works\Projects\PlConnector\PSocket\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bilal\Desktop\Works\Projects\PlConnector\PSocket\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bilal\Desktop\Works\Projects\PlConnector\PSocket\obj\Debug\PSocket.csproj.CopyComplete
